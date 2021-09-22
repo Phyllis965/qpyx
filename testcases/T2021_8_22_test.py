@@ -13,6 +13,7 @@ class TestCaseT2021822(HttpRunner):
                 "foo1": "testsuite_config_bar1",
                 "expect_foo1": "testsuite_config_bar1",
                 "expect_foo2": "config_bar2",
+                "token":"AUTH_USER_96_c4ce610235a44f249c0b18a9ff5fc9c0"
             }
         )
             .base_url("http://testapi.qingpinyouxuan.com")
